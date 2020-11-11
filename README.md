@@ -1,2 +1,2 @@
 # JupyterNotebooks
-Jupyter Notebooks for analysis
+Jupyter Notebooks for analysis for RAPcores.
